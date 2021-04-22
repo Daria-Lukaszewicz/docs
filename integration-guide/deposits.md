@@ -44,7 +44,7 @@ Here you can find information about deposit and withdrawal limits:
 
 * [Deposit and withdrawal limits](../confirmations-and-limits.md)
 
-Sometimes users make mistakes and send the funds using a specific cryptocurrency to the address from a different blockchain. These funds will be lost in most cases. The funds could be particularly restored according to the "Crosschain recovery policy":
+Sometimes users make mistakes and send the funds using a specific cryptocurrency to the address from a different blockchain. These funds will be lost in most cases. The funds could be partially restored according to the "Crosschain recovery policy":
 
 * [Crosschain recovery policy](../crosschain-recovery-policy.md)
 {% endhint %}
