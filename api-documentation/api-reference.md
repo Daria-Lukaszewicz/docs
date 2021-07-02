@@ -944,7 +944,7 @@ Example of a successful response
 {
    "data":{
       "id":79,
-      "url":"https://app.coinspaid.com/invoice/RB9NZv",
+      "url":"https://app.cryptoprocessing.com/invoice/RB9NZv",
       "foreign_id":164,
       "name":"TEST NAME",
       "status":"created",
